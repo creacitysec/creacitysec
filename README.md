@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [ZigZag](https://github.com/creacitysec/ZigZag)<br>👯 I’m looking to collaborate on [ZigZag](https://github.com/creacitysec/ZigZag)<br>⚡ Fun fact : I'm French
+🔭 I’m currently working on [ZigZag](https://github.com/creacitysec/ZigZag)<br>👯 I’m looking to collaborate on [ZigZag](https://github.com/creacitysec/ZigZag)<br>⚡ Fun fact : I'm French 🇫🇷
 
 
 # 💻 Tech Stack:
