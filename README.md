@@ -41,8 +41,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=creacitysec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7" alt="stats"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=creacitysec&hide_border=true&theme=tokyonight&stroke=7AA2F7&ring=BB9AF7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="streak"/>
 
 </div>
