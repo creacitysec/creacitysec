@@ -1,23 +1,81 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=salut%2C+moi+c'est+creacitysec+%F0%9F%91%8B;je+ship+des+trucs+que+personne+n'a+demand%C3%A9s;growth+hacker+le+jour%2C+reverse+engineer+la+nuit;SaaS+%2B+affiliation+%2B+s%C3%A9cu+%2B+3h+de+sommeil" alt="typing headline" />
 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=plastic&logo=packer&logoColor=%2302A8EF) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=creacitysec&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=creacitysec&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=creacitysec&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+`indie hacker` · `builder compulsif` · `casse-des-trucs-pour-comprendre`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=creacitysec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="https://github.com/creacitysec?tab=repositories"><img src="https://img.shields.io/badge/repos-beaucoup_trop-7AA2F7?style=flat-square&labelColor=1A1B27" alt="repos"/></a>
+<img src="https://img.shields.io/badge/café-∞-BB9AF7?style=flat-square&labelColor=1A1B27" alt="café"/>
+<img src="https://komarev.com/ghpvc/?username=creacitysec&style=flat-square&color=7AA2F7&label=passages" alt="visiteurs"/>
 
-### 😂
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=creacitysec&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧬 Le pitch
+
+Je passe mes journées à transformer des idées douteuses en produits qui tournent vraiment.
+Un jour c'est un **SaaS**, le lendemain une **landing qui convertit**, la nuit un **outil de sécurité** ou du **reverse engineering** pour comprendre comment un truc marche sous le capot.
+
+Ma zone de confort, c'est le moment précis où un projet passe de « ça devrait marcher » à « ok, c'est en prod ».
+
+- 🏗️ Je construis surtout des **apps web full-stack** (SaaS, growth, affiliation SEO)
+- 🔐 Je bidouille aussi de la **sécu offensive & du reverse** pour le sport (CVE, shellcode, protocoles proprios)
+- 🤖 J'ajoute de l'**IA** un peu partout quand ça rend le produit meilleur (et pas juste pour la hype)
+- 🇫🇷 Je code en français dans la tête et en anglais dans le terminal
+
+---
+
+### 🛠️ La boîte à outils
+
+**Le front que je préfère**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B1120?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Le back qui fait le boulot**
+![Node.js](https://img.shields.io/badge/Node.js-393?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**Là où ça tourne**
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1A1B27?style=flat-square&logo=linux&logoColor=FCC624)
+
+---
+
+### 📊 Les statistiques (que je regarde plus que ma banque)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=creacitysec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creacitysec&layout=compact&hide_border=true&theme=tokyonight&title_color=7AA2F7&langs_count=8" alt="top langs"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=creacitysec&hide_border=true&theme=tokyonight&stroke=7AA2F7&ring=BB9AF7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="citation dev aléatoire"/>
+
+<br/><br/>
+
+<i>« Ça marche sur ma machine » — moi, juste avant que ça casse en prod</i>
+
+</div>
