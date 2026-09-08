@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=salut%2C+moi+c'est+creacitysec+%F0%9F%91%8B;je+ship+des+trucs+que+personne+n'a+demand%C3%A9s;growth+hacker+le+jour%2C+reverse+engineer+la+nuit;SaaS+%2B+affiliation+%2B+s%C3%A9cu+%2B+3h+de+sommeil" alt="typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=45&lines=moi+c'est+creacitysec+%F0%9F%91%8B;je+ship%2C+donc+je+suis;growth+le+jour%2C+reverse+la+nuit;SaaS+%C2%B7+s%C3%A9cu+%C2%B7+3h+de+sommeil" alt="typing headline" />
 
 <br/>
 
